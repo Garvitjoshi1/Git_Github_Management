@@ -45,7 +45,4 @@ Welcome to the Git and GitHub Management guide! This document will walk you thro
 
 13. **Final Push:** Push the changes to your GitHub repository using:
  ```
- git push origin BranchName
- ```
-
-Congratulations! You have successfully contributed to the project. Your changes are now available on GitHub for review and merging.
+ ```hey this repo also contributes by anshuman behera```
